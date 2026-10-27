@@ -1,0 +1,13 @@
+# Archivos de configuración local y secretos
+.env
+
+# Archivos del sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Vendor / Node modules si se usan
+vendor/
+node_modules/
